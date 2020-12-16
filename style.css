@@ -1,0 +1,10 @@
+.back{
+    background-image: url('https://guias-viajar.com/madrid/wp-content/uploads/2019/11/madrid-navidad-2019-plaza-mayor-001.jpg');
+}
+h1,h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:yellowgreen;
+}
+.imagen{
+    position: center;
+}
